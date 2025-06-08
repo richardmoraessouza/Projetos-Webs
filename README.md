@@ -6,8 +6,8 @@ A ideia aqui foi praticar a criação de páginas web simples, responsivas e bem
 
 ## 🔗 Acesse os sites
 
-- [Site 1](https://seu-usuario.github.io/nome-do-site-1)
-- [Site 2](https://seu-usuario.github.io/nome-do-site-2)
+- [Site 1](https://richardmoraessouza.io/Projetos-Webs/site2/index.html)
+- [Site 2](https://.io/nome-do-site-2)
 
 ## O que eu usei
 
@@ -19,4 +19,3 @@ A ideia aqui foi praticar a criação de páginas web simples, responsivas e bem
 - Como montar a estrutura de um site do zero
 - Estilizar páginas com CSS
 - treinar meu conhecimento de html e css
-
