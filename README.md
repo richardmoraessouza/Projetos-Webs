@@ -6,8 +6,7 @@ A ideia aqui foi praticar a criação de páginas web simples, responsivas e bem
 
 ## 🔗 Acesse os sites
 
-- [Site 1](https://richardmoraessouza.io/Projetos-Webs/site2/index.html)
-- [Site 2](https://.io/nome-do-site-2)
+- https://richardmoraessouza.github.io/Projetos-Webs/
 
 ## O que eu usei
 
