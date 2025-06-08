@@ -14,6 +14,16 @@ A ideia aqui foi praticar a criação de páginas web simples, responsivas e com
 
 - HTML5
 - CSS3
+- 
+## 🧠 Base do projeto
+
+Estes sites foram criados a partir de um modelo que encontrei online.  
+Usei o layout original como referência e fiz alterações no conteúdo para praticar HTML e CSS.
+
+🔗 Site original de referência: [https://www.projetowebsite.com.br/criacao-de-site-para-empresa]
+
+As mudanças foram feitas por mim com fins de aprendizado.
+
 
 ## 🎯 Objetivos do projeto
 
