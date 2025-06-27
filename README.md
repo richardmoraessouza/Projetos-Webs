@@ -6,7 +6,7 @@ A ideia aqui foi praticar a criação de páginas web simples, responsivas e com
 
 ## 🔗 Acesse os sites
 
-- 🌐 [Página principal com links para os dois sites](https://richardmoraessouza.github.io/Projetos-Webs/)
+- 🌐 [Página principal com links para os dois sites](https://projetowebs.netlify.app/)
 
 > Na página acima, você pode escolher qual dos dois projetos deseja visualizar.
 
